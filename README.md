@@ -1,7 +1,5 @@
 translate language for csv
 
-切记，只做学习之用，不允许商用或任何产生利益的使用
-
 复制源文件以防发生错误
 
 创建input和output两个文件夹（名字随便改，a文件、b文件）
@@ -18,7 +16,6 @@ translate language for csv
 
 —————————————————————————————————————————————————————————————————————————————————————————————————————————
 
-Please remember, this is for educational purposes only and may not be used for commercial purposes or any other profit-making activities.
 Copy the source file to prevent errors.
 Create two folders, input and output (the names can be changed, file A and file B). 
 1. Open the .exe file.
