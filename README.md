@@ -1,4 +1,4 @@
-translate language for csv
+translate language for csv.Get exe(transcsv.rar)——————————————————————————→
 
 复制源文件以防发生错误
 
